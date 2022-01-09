@@ -42,7 +42,7 @@ używających biblioteki cinaps.
 
 %package devel
 Summary:	Trivial Metaprogramming tool using the OCaml toplevel - development part
-Summary(pl.UTF-8):	Trywialne narzędzie do metaprogramowania wykorzystujące toplevel w OCamlu - cześć programistyczna
+Summary(pl.UTF-8):	Trywialne narzędzie do metaprogramowania wykorzystujące toplevel w OCamlu - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 Requires:	ocaml-re-devel
